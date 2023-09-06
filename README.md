@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis SQL Queries
+# COVID-19 Data Analysis Project
 
 ## Overview
 
