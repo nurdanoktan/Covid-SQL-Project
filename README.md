@@ -11,8 +11,6 @@ This repository contains a collection of SQL queries for analyzing COVID-19 data
 ## Dataset
 The datasets used in these SQL queries are included within this repository. You can find them in the `datasets` directory. The datasets are named `CovidDeaths.csv` and `CovidVaccinations.csv`, and they contain the COVID-19 data used for analysis.
 
-If you wish to update or replace these datasets, simply replace the CSV files in the `datasets` directory with your desired data files.
-
 ## Usage
 
 1. Clone or download this repository to your local machine.
