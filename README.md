@@ -50,7 +50,3 @@ The datasets used in these SQL queries are included within this repository. You 
 ## Data Visualization
 
 To visualize the data obtained from these queries, you can access the `PercentPopulationVaccinated` view, which includes information about continents, locations, dates, populations, new vaccinations, and rolling people vaccinated.
-
-## Disclaimer
-
-These SQL queries are meant for analysis purposes and may require adjustments to suit your specific database setup and data source.
